@@ -1,0 +1,21 @@
+h1{
+
+    width: 500px;
+    margin-top: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    color:red;
+}
+
+form {
+    margin-top: 20px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: brown;
+}
+
+
+
